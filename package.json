@@ -1,6 +1,6 @@
 {
   "name": "sejda-js",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Javascript wrapper for the Sejda PDF engine",
   "main": "index.js",
   "scripts": {

@@ -24,7 +24,9 @@ sejda.splitByPages({
 )
 ```
 
-Reference implementation: [Split PDF online by pages](https://www.sejda.com/split-pdf)
+Reference implementations: 
+- [Split PDF online by pages](https://www.sejda.com/split-pdf)
+- [Merge PDF Files online](https://www.sejda.com/merge-pdf)
 
 ## License
 
